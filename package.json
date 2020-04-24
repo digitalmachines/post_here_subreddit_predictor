@@ -8,7 +8,9 @@
     "helmet": "^3.22.0",
     "knex": "^0.21.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
